@@ -1,0 +1,29 @@
+9
+Abby 0 0
+Bill 4 0
+Carl 8 0
+Dan 0 -4
+Edgar 4 -4
+Fred 8 -4
+Ginny 0 -8
+Harry 4 -8
+Izzy 8 -8
+16
+Abby Bill 2
+Abby Dan 3
+Abby Edgar 4
+Bill Carl 3
+Bill Edgar 2
+Bill Fred 3
+Carl Fred 4
+Dan Edgar 3
+Dan Ginny 2
+Edgar Fred 3
+Edgar Ginny 4
+Edgar Harry 3
+Edgar Izzy 2
+Fred Izzy 3
+Ginny Harry 4
+Harry Izzy 3
+Carl 12
+Harry
